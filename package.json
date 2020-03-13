@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build" : "tsc",
-    "dev": "tsc -w **/*.ts"
+    "dev": "tsc -w **/*.ts --outDir build"
   },
   "keywords": [],
   "author": "",
