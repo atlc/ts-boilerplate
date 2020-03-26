@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "typedoc": "^0.17.3",
+    "@types/node": "^12.12.31",
     "typescript": "^3.8.3"
   }
 }
